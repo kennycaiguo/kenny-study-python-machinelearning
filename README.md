@@ -14,9 +14,9 @@
 # <a href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes">吴恩达老师的机器学习课程个人笔记</a>
 # <a href="https://github.com/fengdu78/deeplearning_ai_books">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</a>
 # <a href="https://github.com/htylab/machine-learning-python">機器學習: Python</a>
-# <a href=""></a>
-# <a href=""></a>
-# <a href=""></a>
+# <a href="https://github.com/basicv8vc/Python-Machine-Learning-zh">Python机器学习，机器学习入门首选-jupyter notebook版本</a>
+# <a href="https://github.com/rasbt/python-machine-learning-book-3rd-edition">The "Python Machine Learning (3rd edition)" book code repository</a>
+# <a href="https://github.com/ZiruZha/Machine-Learning">黑马程序员3天快速入门python机器学习</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
