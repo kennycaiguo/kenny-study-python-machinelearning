@@ -10,7 +10,7 @@
 # <a href="https://github.com/ageitgey/face_recognition">全世界最简单的面部识别API，基于Python与命令行</a>
 # <a href="https://github.com/tensorflow/tfjs-core">用于网络的硬件加速机器智能库</a>
 # <a href="https://github.com/deepmind/pysc2">星际争霸II学习环境</a>
-# <a href=""></a>
+# <a href="https://github.com/wushiwang/ML">机器学习练手项目</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
