@@ -12,7 +12,7 @@
 # <a href="https://github.com/deepmind/pysc2">星际争霸II学习环境</a>
 # <a href="https://github.com/wushiwang/ML">机器学习练手项目</a>
 # <a href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes">吴恩达老师的机器学习课程个人笔记</a>
-# <a href=""></a>
+# <a href="https://github.com/fengdu78/deeplearning_ai_books">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
