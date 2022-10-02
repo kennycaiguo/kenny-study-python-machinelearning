@@ -11,7 +11,7 @@
 # <a href="https://github.com/tensorflow/tfjs-core">用于网络的硬件加速机器智能库</a>
 # <a href="https://github.com/deepmind/pysc2">星际争霸II学习环境</a>
 # <a href="https://github.com/wushiwang/ML">机器学习练手项目</a>
-# <a href=""></a>
+# <a href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes">吴恩达老师的机器学习课程个人笔记</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
