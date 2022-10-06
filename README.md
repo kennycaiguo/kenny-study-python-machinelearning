@@ -18,7 +18,7 @@
 # <a href="https://github.com/rasbt/python-machine-learning-book-3rd-edition">The "Python Machine Learning (3rd edition)" book code repository</a>
 # <a href="https://github.com/ZiruZha/Machine-Learning">黑马程序员3天快速入门python机器学习</a>
 # <a href="https://github.com/datawhalechina/machine-learning-toy-code">《机器学习》（西瓜书）代码实战</a>
-# <a href=""></a>
+# <a href="https://github.com/LeBron-Jian/MachineLearningNote">Python机器学习笔记：sklearn库的学习</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
