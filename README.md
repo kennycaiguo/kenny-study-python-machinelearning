@@ -1,4 +1,11 @@
 # kenny-study-python-machinelearning
+# 机器学习数据集网址
+## 1.Kaggle数据集网站: https://www.kaggle.com/datasets 
+## 2.UCI数据集网站: http://archive.ics.uci.edu/ 
+## 3.scikit learn网站提供的数据集: https://scikit-learn.org/1.5/datasets/toy_dataset.html 
+## 4.16个scikit learn有用数据集模型: https://hackernoon.com/16-best-sklearn-datasets-for-building-machine-learning-models 
+## 5.scikit learn 数据集GitHub仓库: https://github.com/scikit-learn/scikit-learn/tree/main/sklearn/datasets/data
+
 # 学习python机器学习，以下是以下有用的仓库
 
 # <a href="https://github.com/kennycaiguo/handson-ml">handson-ml</a>
