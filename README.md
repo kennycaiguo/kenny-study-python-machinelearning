@@ -1,4 +1,5 @@
 # kenny-study-python-machinelearning
+# 我的sklearn代码仓库: https://github.com/kennycaiguo/kenny-sklearn-lessons
 # 关于Python3.10 安装Matplotlib的问题
 ## 1.python3.10需要安装3.5.3版本的matplotlib,安装低于这个版本的会报错
 C:\Users\Administrator>pip install matplotlib==3.5.3
